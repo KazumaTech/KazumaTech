@@ -1,11 +1,3 @@
-My name is Kazuma Sato
-I'm currently learning Computer Science
-
-<!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KazumaTech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KazumaTech/)
-
-<!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazumaTech&layout=compact&theme=tokyonight)](https://github.com/KazumaTech/)
 <!--
 **KazumaTech/KazumaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Kazuma Sato.  
+I'm currently learning Computer Science.
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KazumaTech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KazumaTech/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazumaTech&layout=compact&theme=tokyonight)](https://github.com/KazumaTech/)
