@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 My name is Kazuma.  
 
-<!-- リポジトリステータス -->
+<!--
+リポジトリステータス
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KazumaTech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KazumaTech/)
 
-<!-- ソースコード統計
+ソースコード統計
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazumaTech&layout=compact&theme=tokyonight)](https://github.com/KazumaTech/)
 -->
