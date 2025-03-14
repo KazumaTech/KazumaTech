@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kazuma Sato.  
+My name is Kazuma.  
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=KazumaTech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/KazumaTech/)
